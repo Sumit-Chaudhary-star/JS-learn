@@ -6,3 +6,5 @@ accountCity = "Hasanpur"; // This will throw an error because accountCity is not
 // accountId = 2;
 
 console.log(accountId);
+console.table([accountId, accountEmail, accountPassword, accountCity]);
+
